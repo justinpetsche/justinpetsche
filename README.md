@@ -1,6 +1,8 @@
+<img src="https://justinpetsche.github.io/headshot.jpeg" width="120" style="border-radius:50%;" alt="Justin Petsche" />
+
 # Hi, I'm Justin 👋
 
-📍 US / Mexico / Indonesia · 🔧 Founder & Sales Leader · 🌊 Ironman
+📍 San Diego · 🔧 Founder & Sales Leader · 🌊 Ironman
 
 ![GTM](https://img.shields.io/badge/B2B_GTM-333?style=flat-square) ![Sales](https://img.shields.io/badge/Founder--Led_Sales-333?style=flat-square) ![Fundraising](https://img.shields.io/badge/VC_Fundraising-333?style=flat-square) ![Open Source](https://img.shields.io/badge/Open_Source-333?style=flat-square) ![AI](https://img.shields.io/badge/AI-333?style=flat-square) ![SaaS](https://img.shields.io/badge/SaaS-333?style=flat-square) ![HRTech](https://img.shields.io/badge/HRTech-333?style=flat-square) ![FinTech](https://img.shields.io/badge/FinTech-333?style=flat-square)
 
