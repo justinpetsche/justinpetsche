@@ -21,7 +21,7 @@
 
 ### Projects
 
-- 📡 **[raisefn/tracker](https://github.com/raisefn/tracker)** — Bloomberg for crypto fundraising. Open source intelligence API
+- 📡 **[raisefn/tracker](https://github.com/raisefn/tracker)** — Bloomberg for crypto. Open source intelligence engine
 - 🔗 **[Opacore](https://github.com/opacore/opacore)** — Open source bitcoin tracker with free tax reporting
 - 📖 **[GTM Playbook](https://wind-skirt-c6c.notion.site/Sales-Team-Home-f0755dcbc54949bb84b67efceda3a121?pvs=143)** — Open source playbook for GTM
 - 🏊 **[Tri Calculator](https://justinpetsche.github.io/tri-calculator.html)** — Triathlon race time calculator
